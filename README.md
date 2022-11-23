@@ -187,16 +187,6 @@ testinnnnnnng
                 Download            </a>
         </div>
     </div>
-        <script>
-        window.downloadGaFunctions = window.downloadGaFunctions || {};
-        window.downloadGaFunctions[188987825] = function() {
-            
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA\x2D8406245\x2D4', 'communityprojekt-origo.webador.de', {'name': '784100732'});ga('784100732.set', 'anonymizeIp', true);ga("784100732.set", "dimension5", "1589892");ga("784100732.send", "event", "file", "download", "Opal 3 1.png");        };
-    </script>
 </div>
 </div><div
     id="jw-element-188988275"
@@ -253,8 +243,6 @@ testinnnnnnng
             </div>
             <div class="jw-credits-right">
                               <div id="jw-credits-tool">
-    <small>
-        Mit Unterstützung von <a href="https://www.webador.de" rel="">Webador</a>    </small>
 </div>
             </div>
         </div>
