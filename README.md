@@ -1,23 +1,6 @@
 # EloGemstonePack.github.io
 testinnnnnnng
-
-
-    <div class="content-wrap content-width-wrapper">
-        <section class="container">
-            <div data-section-name="content" class="jw-section jw-section-content lt800">
-                    <nav class="jw-breadcrumbs" aria-label="Navigationspfad"><ol><li><a href="/" class="jw-breadcrumbs__link">Home</a></li><li><span class="jw-breadcrumbs__separator" aria-hidden="true">&raquo;</span><a href="/gempack" class="jw-breadcrumbs__link jw-breadcrumbs__link--current" aria-current="page">Gempack</a></li></ol></nav>        <div
-    id="jw-element-188986939"
-    data-jw-element-id="188986939"
-        class="jw-tree-node jw-element jw-container jw-tree-container"
->
-    <div
-    id="jw-element-188986942"
-    data-jw-element-id="188986942"
-        class="jw-tree-node jw-element jw-image-text jw-node-is-first-child"
->
-    <div class="jw-element-imagetext-text">
-            <h2 class="jw-heading-100">Gempack</h2>    </div>
-</div><div
+<div
     id="jw-element-188986943"
     data-jw-element-id="188986943"
         class="jw-tree-node jw-element jw-image-text"
@@ -233,15 +216,7 @@ testinnnnnnng
     data-jw-element-id="188986940"
         class="jw-tree-node jw-element jw-container jw-tree-container jw-tree-container__empty"
 >
-    </div>            <div class="jw-credits clear">
-            <div class="jw-credits-owner">
-                <div id="jw-footer-text">
-                    <div class="jw-footer-text-content">
-                        &copy; 2020 - 2022 Communityprojekt Origo                    </div>
-                </div>
-            </div>
-            <div class="jw-credits-right">
-                              <div id="jw-credits-tool">
+    </div>        
 </div>
             </div>
         </div>
