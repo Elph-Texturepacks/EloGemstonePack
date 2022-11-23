@@ -1,6 +1,5 @@
 # EloGemstonePack.github.io
 testinnnnnnng
-<html lang="de">
 
 <main class="main clear">
     <div class="content-wrap content-width-wrapper">
