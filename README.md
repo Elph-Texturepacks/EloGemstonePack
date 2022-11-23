@@ -1,7 +1,7 @@
 # EloGemstonePack.github.io
 testinnnnnnng
 
-<main class="main clear">
+
     <div class="content-wrap content-width-wrapper">
         <section class="container">
             <div data-section-name="content" class="jw-section jw-section-content lt800">
@@ -250,4 +250,4 @@ testinnnnnnng
     </div>
 </footer>
     </body>
-</html>
+
