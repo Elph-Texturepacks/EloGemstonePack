@@ -1,18 +1,7 @@
 # EloGemstonePack.github.io
 testinnnnnnng
 <html lang="de">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <link rel="canonical" href="https://communityprojekt-origo.webador.de/gempack" />
-        <meta property="og:title" content="Gempack | Communityprojekt Origo" />
-        <meta property="og:url" content="https://communityprojekt-origo.webador.de/gempack" />
-        <base href="https://communityprojekt-origo.webador.de/" />
-        <meta name="description" property="og:description" content="" />
 
-    </nav>
-</header>
 <main class="main clear">
     <div class="content-wrap content-width-wrapper">
         <section class="container">
