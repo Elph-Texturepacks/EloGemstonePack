@@ -104,7 +104,8 @@ testinnnnnnng
 <div class="jw-element-imagetext-text">
             <p>3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack </p>    </div>
     </div>
-</div></div>    <div class="jw-element-ads-is-bottom jw-element-ads js-ads jw-element-ads-WebsiteRenderingSignup jw-element-ads--tint"><div class="jw-comment"><h3>Erstelle deine eigene Website mit <a href="https://www.webador.de/?utm_source=sites&utm_medium=banner&utm_content=text%2Btint&utm_campaign=house%20banner%20webador" rel="nofollow">Webador</a></h3></div></div></div>
+</div></div>    <div class="jw-element-ads-is-bottom jw-element-ads js-ads jw-element-ads-WebsiteRenderingSignup jw-element-ads--tint"><div class="jw-comment">
+</div></div></div>
         </section>
         <aside>
             <div
