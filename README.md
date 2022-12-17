@@ -1,5 +1,4 @@
 # EloGemstonePack.github.io
-testinnnnnnng
 <div
     id="jw-element-188986943"
     data-jw-element-id="188986943"
